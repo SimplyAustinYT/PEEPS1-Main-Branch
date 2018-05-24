@@ -3,7 +3,7 @@ The Peoples Console V1
 
 #MAP:
 
-Upload of original files and master theme to be used in Emulation Station.  Currently only tested on ODRPID XU4.
+Upload of original files and master theme to be used in Emulation Station.  Currently only tested on ODROID XU4.
 
 FINISHED       = Master of raw png files.
 THEME GAME ART = Master of raw art files
