@@ -1,0 +1,152 @@
+<!-- 
+Theme: peeps
+version: 1.0
+author: Simply Austin
+license: we havnt got a clue do what either
+-->
+<theme>
+	
+	<formatVersion>4</formatVersion>
+
+<feature supported="carousel">
+   <view name="system">
+      <carousel name="systemcarousel">
+        <type>vertical</type>
+        <pos>0.72 0.020</pos>
+        <size>0.300 0.890</size>
+        <logoScale>1.4</logoScale>
+        <logoSize>0.175 0.24</logoSize>
+        <color>00000000</color>
+        <maxLogoCount>5</maxLogoCount>
+      </carousel>
+      <text name="systemInfo">
+         <pos>0.15 0.935</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>FFFFFF</color>
+	 <fontSize>0.03</fontSize>
+      </text>
+   </view>
+</feature>
+
+	
+	<view name="basic">
+		
+		<text name="description" extra="true">
+			<pos>0.061 0.624</pos>
+			<size>0.236 0.200</size>
+			<color>ffffff</color>
+			<fontSize>0.025</fontSize>
+			<text>No Information Available</text>
+			<fontPath>./../assets/noto.ttf</fontPath>
+		</text>	
+		
+		<image name="none" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.1785 0.382</pos>
+			<maxSize>0.236 0.418</maxSize>
+			<path>./../assets/no_boxart.png</path>
+		</image> 
+	
+	</view>
+	
+	<view name="basic, detailed, video">
+	        <text name="md_lbl_playcount">
+            <pos>1 1</pos>
+            <origin>0 01</origin>
+        </text>
+        <text name="md_playcount">
+            <pos>1 1 </pos>
+            <origin>0 0</origin>
+        </text>
+		<helpsystem name="help">
+			<textColor>ffffff88</textColor>
+			<iconColor>ffffff88</iconColor>
+			<pos>0.05 0.935</pos>
+		</helpsystem>
+		<text name="md_lbl_releasedate, md_lbl_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_releasedate, md_genre, md_rating, md_developer, md_publisher">
+		<fontSize>0.022</fontSize>
+		</text>
+		<text name="md_lbl_genre">
+			<pos>0.300 0.749</pos>
+			<origin>1 0</origin>
+		</text>
+		<text name="md_genre">
+			<pos>0.301 0.740</pos>
+			<origin>0 0</origin>
+		</text>
+		<text name="md_lbl_rating">
+			<pos>0.300 0.783</pos>
+			<origin>1 0</origin>
+		</text>
+		<text name="md_rating">
+			<pos>0.301 0.783</pos>
+			<size>0.23 0.03</size>
+			<origin>0 0</origin>
+		</text>
+		<text name="md_lbl_developer">
+			<pos>0.300 0.817</pos>
+			<origin>1 0</origin>
+		</text>
+		<text name="md_developer">
+			<pos>0.301 0.808</pos>
+			<origin>0 0</origin>
+		</text>
+		<text name="md_lbl_publisher">
+			<pos>0.300 0.851</pos>
+			<origin>1 0</origin>
+		</text>
+		<text name="md_publisher">
+			<pos>0.301 0.842</pos>
+			<origin>0 0</origin>
+		</text>
+		
+		<text name="md_lbl_releasedate">
+			<pos>0.300 0.885</pos>
+			<origin>1 0</origin>
+		</text>
+		<text name="md_releasedate">
+			<pos>0.301 0.876</pos>
+			<origin>0 0</origin>
+		</text>
+		<text name="md_description">
+			<pos>0.410 0.725</pos>
+			<size>0.336 0.200</size>
+			<fontSize>0.025</fontSize>
+		</text>
+		
+
+		
+		<image name="md_image">
+			<origin>0 1</origin>
+			<pos>0.015 0.925</pos>
+			<maxSize>0.208 0.5</maxSize>
+		</image> 
+
+	</view>
+	
+	<view name="video">
+
+			<video name="md_video">
+				<origin>0 0</origin>
+				<pos>0 0</pos>
+				<maxSize>0.75 1</maxSize>	
+				<delay>0</delay>
+				<default></default>
+				<zIndex>1</zIndex>
+				<showSnapshotNoVideo>false</showSnapshotNoVideo>
+				<showSnapshotDelay>false</showSnapshotDelay>
+			</video>
+
+			<image name="md_marquee">
+            <pos>0.119 0.109</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>0.208 0.5</maxSize>
+        </image>
+			
+	</view>		
+	
+	
+</theme>
+		
+		
+		

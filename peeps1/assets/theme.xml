@@ -1,0 +1,94 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../layouts/V2.xml</include>
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./art/psx_art_blur.jpg</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/psx.svg</path>
+        </image>
+	
+		
+	</view>
+		<view name="basic, detailed, video">
+		<text name="md_lbl_releasedate, md_lbl_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_lbl_playcount, md_releasedate, md_genre, md_rating, md_developer, md_publisher, md_playcount">
+			<fontPath>./../assets/SST.ttf</fontPath>
+			<color>727272</color>
+		</text>
+		<image name="background" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./art/bg.png</path>
+			<zIndex>0</zIndex>
+			<color>ffffff</color>
+		</image>
+		<image name="foreground" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./art/fg.png</path>
+			<zIndex>1</zIndex>
+			<color>ffffff</color>
+		</image>
+			<textlist name="gamelist">
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>727272</primaryColor>
+			<secondaryColor>727272</secondaryColor>
+			<fontPath>./../assets/SST.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<pos>0.776 0.481</pos>
+			<size>0.192 0.472</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0</horizontalMargin>
+			<origin>0 0</origin>
+			<lineSpacing>2.27</lineSpacing>
+			<selectorImagePath>./../assets/box.png</selectorImagePath>
+			<selectorOffsetY>-0.01</selectorOffsetY>
+			<selectorHeight>0.0675</selectorHeight>
+		</textlist> 
+		<image name="fg" extra="true">
+			<path>./art/fog.png</path>
+			<pos>0 0</pos>
+			<zIndex>2</zIndex>
+			<size>1 1</size>
+			<origin>0 0</origin>
+		</image>
+				<sound name="systemscroll">
+			<path>./art/systemscroll.wav</path>
+		</sound>
+		
+		<sound name="systemselect">
+			<path>./art/systemscroll.wav</path>
+		</sound>
+		
+		<sound name="listscroll">
+			<path>./art/listscroll.wav</path>
+		</sound>
+		
+		<sound name="back">
+			<path>./art/back.wav</path>
+		</sound>
+		
+		<sound name="launch">
+			<path>./art/launch.wav</path>
+		</sound>
+		
+		<sound name="menuopen">
+			<path>./art/menu.wav</path>
+		</sound>
+		<text name="md_description">
+			<pos>0.410 0.725</pos>
+			<size>0.336 0.200</size>
+			<color>727272</color>
+			<fontSize>0.025</fontSize>
+			<fontPath>./../assets/noto.ttf</fontPath>
+		</text>
+		
+	
+	</view>
+	
+</theme>

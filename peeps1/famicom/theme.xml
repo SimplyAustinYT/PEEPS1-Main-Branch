@@ -1,0 +1,111 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../layouts/V2.xml</include>
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./art/system.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/logo.png</path>
+        </image>
+	
+		
+	</view>
+		<view name="basic, detailed, video">
+		<text name="md_lbl_releasedate, md_lbl_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_lbl_playcount, md_releasedate, md_genre, md_rating, md_developer, md_publisher, md_playcount">
+			<fontPath>./../assets/retro.ttf</fontPath>
+			<color>F5F5F5</color>
+		</text>
+		<image name="background" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./art/bg.png</path>
+			<zIndex>0</zIndex>
+			<color>ffffff</color>
+		</image>
+		<image name="foreground" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./art/fg.png</path>
+			<zIndex>1</zIndex>
+			<color>ffffff</color>
+		</image>
+			<textlist name="gamelist">
+			<selectedColor>EAEAEA</selectedColor>
+			<primaryColor>F5F5F5</primaryColor>
+			<secondaryColor>F5F5F5</secondaryColor>
+			<fontPath>./../assets/nes.ttf</fontPath>
+			<fontSize>0.04</fontSize>
+			<pos>0.776 0.481</pos>
+			<size>0.192 0.472</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0</horizontalMargin>
+			<origin>0 0</origin>
+			<lineSpacing>1.2</lineSpacing>
+			<selectorOffsetY>0.005</selectorOffsetY>
+			<selectorHeight>0.04</selectorHeight>
+			<selectorColor>EC0E0E</selectorColor>
+		</textlist> 
+		<image name="fg" extra="true">
+			<path>./art/fog.png</path>
+			<pos>0 0</pos>
+			<zIndex>2</zIndex>
+			<size>1 1</size>
+			<origin>0 0</origin>
+		</image>
+				<sound name="systemscroll">
+			<path>./art/systemscroll.wav</path>
+		</sound>
+		
+		<sound name="systemselect">
+			<path>./art/systemscroll.wav</path>
+		</sound>
+		
+		<sound name="listscroll">
+			<path>./art/listscroll.wav</path>
+		</sound>
+		
+		<sound name="back">
+			<path>./art/back.wav</path>
+		</sound>
+		
+		<sound name="launch">
+			<path>./art/launch.wav</path>
+		</sound>
+		
+		<sound name="menuopen">
+			<path>./art/menu.wav</path>
+		</sound>
+		<text name="md_description">
+			<pos>0.410 0.725</pos>
+			<size>0.336 0.195</size>
+			<color>F5F5F5</color>
+			<fontSize>0.025</fontSize>
+			<fontPath>./../assets/retro.ttf</fontPath>
+		</text>
+		
+	
+	</view>
+	
+	        <view name="video">
+
+            <video name="md_video">
+                <origin>0 0</origin>
+                <pos>0 0</pos>
+                <maxSize>0.75 1</maxSize>    
+                <delay>0</delay>
+                <default></default>
+                <zIndex>1</zIndex>
+                <showSnapshotNoVideo>false</showSnapshotNoVideo>
+                <showSnapshotDelay>false</showSnapshotDelay>
+            </video>
+
+
+            
+    </view> 
+	
+</theme>
