@@ -2,6 +2,7 @@
 The Peoples Console V1
 
 #DESCRIPTION
+
 The Peeps theme is a theme that is univeral to be used on everything that is supported by this format.  At the moment just EmulationStation, meaning ODROID, Raspberry Pi, Android and PC.  Although universal each system has its own taste, theme, art and in some cases layout.  Each one of these options can be changed individually for every system on the same theme.  Meaning that the theme can be very unique, highly customizable and completely trasformative depending on the system and of course your taste.
 
 #MAP:
