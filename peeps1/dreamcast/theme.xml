@@ -35,9 +35,9 @@
 			<color>ffffff</color>
 		</image>
 			<textlist name="gamelist">
-			<selectedColor>000000</selectedColor>
-			<primaryColor>F5F5F5</primaryColor>
-			<secondaryColor>F5F5F5</secondaryColor>
+			<selectedColor>FFFFFF</selectedColor>
+			<primaryColor>ABABAB</primaryColor>
+			<secondaryColor>ABABAB</secondaryColor>
 			<fontPath>./../assets/retro.ttf</fontPath>
 			<fontSize>0.04</fontSize>
 			<pos>0.776 0.481</pos>
@@ -48,7 +48,7 @@
 			<lineSpacing>1.2</lineSpacing>
 			<selectorOffsetY>0.012</selectorOffsetY>
 			<selectorHeight>0.035</selectorHeight>
-			<selectorColor>FFFFFF</selectorColor>
+			<selectorColor>5893FA</selectorColor>
 		</textlist> 
 		<image name="fg" extra="true">
 			<path>./art/fog.png</path>

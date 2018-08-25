@@ -35,20 +35,20 @@
 			<color>ffffff</color>
 		</image>
 			<textlist name="gamelist">
-			<selectedColor>DA0202</selectedColor>
-			<primaryColor>F5F5F5</primaryColor>
-			<secondaryColor>F5F5F5</secondaryColor>
-			<fontPath>./../assets/sega.ttf</fontPath>
-			<fontSize>0.02</fontSize>
+			<selectedColor>FFFFFF</selectedColor>
+			<primaryColor>FFFFFF</primaryColor>
+			<secondaryColor>FFFFFF</secondaryColor>
+			<fontPath>./../assets/retro.ttf</fontPath>
+			<fontSize>0.04</fontSize>
 			<pos>0.776 0.481</pos>
 			<size>0.192 0.472</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0</horizontalMargin>
 			<origin>0 0</origin>
-			<lineSpacing>0.8</lineSpacing>
-			<selectorOffsetY>0.02</selectorOffsetY>
-			<selectorHeight>0.02</selectorHeight>
-			<selectorColor>F5F5F5</selectorColor>
+			<lineSpacing>1.2</lineSpacing>
+			<selectorOffsetY>0.012</selectorOffsetY>
+			<selectorHeight>0.035</selectorHeight>
+			<selectorColor>FF0000</selectorColor>
 		</textlist> 
 		<image name="fg" extra="true">
 			<path>./art/fog.png</path>
