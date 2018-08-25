@@ -29,44 +29,44 @@ touch through email.
 
 We are working on all main systems, but as this theme is per system themed, it takes time.  Once all main systems is added, work will start on collections too.  If anyone would like to contribute, please do.  You can also get in touch with me on my Discord for more info etc - https://discord.gg/Qpg7qxn
 
-3DO   
-Amiga
-Arcade
-Atari 2600
-Atari Jaguar
-Favorites
-Last Played
-Commodore 64
-Dreamcast
-Famicom
-Game-Gear
-Game Boy
-Game Boy Color
-Game Boy Advance
-Kodi
-Macintosh
-Master System
-Mega-Drive
-Nintendo 64
-Nintendo DS
-Neo-Geo
-NES
-Oric
-DOS-Box
-Ports
-PSP
-PlayStation 1
-RetroPie (Settings)
-Sega Saturn
-ScummVM
-Sega 32X
-Sega CD
-Super Famicom
-Sega SG-100
-Super Nintendo
-Turbo Graphics 16
-ZMachine (Infocom)
-ZX Spectrum
+3DO,   
+Amiga,
+Arcade,
+Atari 2600,
+Atari Jaguar,
+Favorites,
+Last Played,
+Commodore 64,
+Dreamcast,
+Famicom,
+Game-Gear,
+Game Boy,
+Game Boy Color,
+Game Boy Advance,
+Kodi,
+Macintosh,
+Master System,
+Mega-Drive,
+Nintendo 64,
+Nintendo DS,
+Neo-Geo,
+NES,
+Oric,
+DOS-Box,
+Ports,
+PSP,
+PlayStation 1,
+RetroPie (Settings),
+Sega Saturn,
+ScummVM,
+Sega 32X,
+Sega CD,
+Super Famicom,
+Sega SG-100,
+Super Nintendo,
+Turbo Graphics 16,
+ZMachine (Infocom),
+ZX Spectrum.
 
 
 #CREDITS:
