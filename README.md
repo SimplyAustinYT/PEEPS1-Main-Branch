@@ -25,9 +25,53 @@ Retro Arena) and myself (Simply Austin).  At the moment the theme itself is WIP 
 configured/organized with the theme.  If anyone would like to help or have anything they could add, please get in 
 touch through email.
 
+#SUPPORTED SYSTEMS:
+
+We are working on all main systems, but as this theme is per system themed, it takes time.  Once all main systems is added, work will start on collections too.  If anyone would like to contribute, please do.  You can also get in touch with me on my Discord for more info etc - https://discord.gg/Qpg7qxn
+
+3DO   
+Amiga
+Arcade
+Atari 2600
+Atari Jaguar
+Favorites
+Last Played
+Commodore 64
+Dreamcast
+Famicom
+Game-Gear
+Game Boy
+Game Boy Color
+Game Boy Advance
+Kodi
+Macintosh
+Master System
+Mega-Drive
+Nintendo 64
+Nintendo DS
+Neo-Geo
+NES
+Oric
+DOS-Box
+Ports
+PSP
+PlayStation 1
+RetroPie (Settings)
+Sega Saturn
+ScummVM
+Sega 32X
+Sega CD
+Super Famicom
+Sega SG-100
+Super Nintendo
+Turbo Graphics 16
+ZMachine (Infocom)
+ZX Spectrum
+
+
 #CREDITS:
-Sarge - ORA Team: http://odroidarena.com/
-Simply Austin - YouTube: https://www.youtube.com/channel/UCb4RFFBZEztOW77onViqoDA
+Sarge -  Making the actual theme code to make the magic happen.
+Simply Austin - Making the artwork and tinkering to make it looka nd behave as it should - YouTube: https://www.youtube.com/channel/UCb4RFFBZEztOW77onViqoDA
 
 #*WARNING* 
 
