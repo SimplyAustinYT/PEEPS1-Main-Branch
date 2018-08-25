@@ -24,10 +24,8 @@ Right now we are up to around 25 systems including Settings, Last Played and Fav
 main systems in UK and US normally play.  More systems will be added as the theme is worked on including regional 
 variations.  Maybe once up to a stable stage language variations will also be added.
 
-Right now, theme is broken.  Only 2 people have been working on this along with SARGE from the ORA Team (Odroid 
-Retro Arena) and myself (Simply Austin).  At the moment the theme itself is WIP and art needs to be 
-configured/organized with the theme.  If anyone would like to help or have anything they could add, please get in 
-touch through email.
+The theme is at this stage in WIP.  Its up to the standard where it can be used.  But still much tweaking and work to be done.  As things are completed, the GitHub will be updated.
+
 
 #SUPPORTED SYSTEMS:
 
