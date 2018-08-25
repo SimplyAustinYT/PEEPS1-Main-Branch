@@ -29,10 +29,10 @@ touch through email.
 
 We are working on all main systems, but as this theme is per system themed, it takes time.  Once all main systems is added, work will start on collections too.  If anyone would like to contribute, please do.  You can also get in touch with me on my Discord for more info etc - https://discord.gg/Qpg7qxn
 
-3DO   
-Amiga
-Arcade
-Atari 2600
+#3DO   
+#Amiga
+#Arcade
+#Atari 2600
 Atari Jaguar
 Favorites
 Last Played
