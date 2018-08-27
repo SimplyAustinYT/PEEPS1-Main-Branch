@@ -35,6 +35,7 @@ We are working on all main systems, but as this theme is per system themed, it t
 Amiga,  
 Arcade,   
 Atari 2600,   
+Atari Lynx,   
 Atari Jaguar,   
 Favorites,    
 Last Played,    
@@ -67,12 +68,13 @@ Super Famicom,
 Sega SG-100,    
 Super Nintendo,   
 Turbo Graphics 16,    
-ZMachine (Infocom),   
+ZMachine (Infocom),  
+Sharp X68000,   
 ZX Spectrum.    
 
 
-#CREDITS:
-Sarge -  Making the actual theme code to make the magic happen.
+#CREDITS:   
+Sarge -  Making the actual theme code to make the magic happen.   
 Simply Austin - Making the artwork and tinkering to make it looka nd behave as it should - YouTube: https://www.youtube.com/channel/UCb4RFFBZEztOW77onViqoDA
 
 #*WARNING* 
