@@ -9,9 +9,10 @@ The Peeps theme is a theme that is univeral to be used on everything that is sup
 
 Upload of original files and master theme to be used in Emulation Station.  Currently only tested on ODROID XU4.
 
-FINISHED       = Master of raw png files.
-THEME GAME ART = Master of raw art files
-peeps1         = Master of raw theme
+peeps1 (folder)= Actual theme files   
+FINISHED       = Master of raw png files.   
+THEME GAME ART = Master of raw art files    
+peeps1.7z      = Master of raw theme (compressed)     
 
 #SUMMARY:
 
@@ -73,7 +74,8 @@ Sharp X68000,
 ZX Spectrum.    
 
 
-#CREDITS:   
+#CREDITS:       
+
 Sarge -  Making the actual theme code to make the magic happen.   
 Simply Austin - Making the artwork and tinkering to make it looka nd behave as it should - YouTube: https://www.youtube.com/channel/UCb4RFFBZEztOW77onViqoDA
 
